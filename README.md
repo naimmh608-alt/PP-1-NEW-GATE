@@ -217,8 +217,8 @@ All PayPal checking logic remains **100% intact**:
 
 ## 🙏 Credits
 
-**Original Script:** @REALYASHVIRGAMING  
-**Telegram Channel:** @THEYASHVIRGAMING  
+**Original Script:** None 
+**Telegram Channel:** None 
 **Converted for Railway:** Railway.com Compatible Version
 
 ---
@@ -232,8 +232,8 @@ This project is for educational purposes only.
 ## ❓ Support
 
 **Issues?** Create an issue on GitHub  
-**Questions?** Contact: @REALYASHVIRGAMING  
-**Channel:** t.me/THEYASHVIRGAMING
+**Questions?** Contact: None
+**Channel:** None
 
 ---
 
